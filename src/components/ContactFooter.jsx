@@ -7,7 +7,7 @@ const ContactFooter = () => {
         setResult("Sending....");
         const formData = new FormData(event.target);
 
-        formData.append("access_key", "61316a11-d06f-4e68-b7d4-8619b0a32376");
+        formData.append("access_key", "41322580-c730-42e4-8212-8cb157caacf6");
 
         const response = await fetch("https://api.web3forms.com/submit", {
             method: "POST",
@@ -65,6 +65,16 @@ const ContactFooter = () => {
                                 name="name"
                                 required
                                 placeholder="John Doe"
+                                className="w-full bg-transparent border-b border-neutral-800 py-4 text-white placeholder-neutral-700 focus:outline-none focus:border-white transition-colors text-lg"
+                            />
+                        </div>
+                        <div className="group">
+                            <label className="text-[10px] tracking-[0.2em] uppercase text-neutral-500 block mb-2">Phone Number</label>
+                            <input
+                                type="tel"
+                                name="phone"
+                                required
+                                placeholder="+91 1234567890"
                                 className="w-full bg-transparent border-b border-neutral-800 py-4 text-white placeholder-neutral-700 focus:outline-none focus:border-white transition-colors text-lg"
                             />
                         </div>
