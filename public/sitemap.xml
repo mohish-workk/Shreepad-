@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shreepad.vercel.app/</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://shreepad.vercel.app/about</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/about</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shreepad.vercel.app/work</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/work</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://shreepad.vercel.app/milestones</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/milestones</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://shreepad.vercel.app/work/commercial</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/work/commercial</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shreepad.vercel.app/work/personal</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/work/personal</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://shreepad.vercel.app/blog</loc>
-    <lastmod>2026-02-17</lastmod>
+    <loc>https://www.goofyframes.com/blog</loc>
+    <lastmod>2026-03-02</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>
