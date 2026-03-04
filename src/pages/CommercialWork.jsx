@@ -28,7 +28,7 @@ const bplImages = import.meta.glob('../assets/work/Commercial/sports/bpl/*.webp'
 const prideImages = import.meta.glob('../assets/work/Commercial/sports/pride/*.webp', { eager: true });
 
 // Import images for "50th Birthday Celebration"
-const birthday50thImages = import.meta.glob('../assets/work/Commercial/Event/50th Birthday Celebration./*.webp', { eager: true });
+const birthday50thImages = import.meta.glob('../assets/work/Commercial/Event/50th Birthday Celebration/*.webp', { eager: true });
 
 // Import images for "House Warming and Daadu's Suvarna Shidi"
 const houseWarmingImages = import.meta.glob('../assets/work/Commercial/Event/House Warming and Daadu_s Suvarna Shidi/*.webp', { eager: true });
@@ -446,4 +446,3 @@ const CommercialWork = ({ isEmbedded = false }) => {
 };
 
 export default CommercialWork;
-

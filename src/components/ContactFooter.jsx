@@ -43,8 +43,8 @@ const ContactFooter = () => {
                     </div>
                     <div>
                         <h4 className="text-[10px] tracking-[0.2em] uppercase text-neutral-500 mb-2">Email</h4>
-                        <a href="mailto:shreepad.salunkhe@gmail.com" className="text-xl md:text-2xl text-white hover:text-neutral-300 transition-colors break-words">
-                            shreepad.salunkhe@gmail.com
+                        <a href="mailto:goofyframesforyou@gmail.com" className="text-xl md:text-2xl text-white hover:text-neutral-300 transition-colors break-words">
+                            goofyframesforyou@gmail.com
                         </a>
                     </div>
                     <div>
